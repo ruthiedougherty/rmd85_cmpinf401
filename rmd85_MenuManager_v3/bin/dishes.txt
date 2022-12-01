@@ -1,0 +1,20 @@
+Fettucine Alfredo@@Entree@@Pasta in a creamy cheese sauce@@500@@17.50
+Chicken Parmesean@@Entree@@Chicken cutlet topped with red sauce and mozzarella cheese served on spaghetti@@600@@21.50
+Chicken Picatta@@Entree@@Chicken cutlett served with pasta in a picatta sauce@@550@@20.00
+Penne Alla Vodka@@Entree@@Penne served in a creamy red sauce@@400@19.50
+Margherita Pizza@@Entree@@Pizza with mozzarella and basil@@500@@15.00
+Chocolate cake@@Dessert@@A cake flavored with melted chocolate@@300@@7.50
+Cannoli@@Dessert@@Pastry filled with cream cheese and chocolate chips@@240@@8.00
+Brownie Skillet@@Dessert@@Brownie in a cast iron pan served with vanilla ice cream@@400@@9.50
+Powdered Donuts@@Dessert@@Donuts topped with powdered sugar. Served with chocolate and raspberry dipping sauces@@400@@6.50
+Cheesecake@@Dessert@@A classic New York Cheesecake@@250@@7.00
+House Salad@@Salad@@Romaine lettuce with a house salad@@20011.00
+Caeser Salad@@Salad@@Romaine lettuce with creamy caeser dressing@@200@@13.50
+Tricolore Salad@@Salad@@Arugula with parmesean cheese served with a vinaigrette@@200@@12.00
+Kale Salad@@Salad@@Kale served with anchioves and a red wine vinaigrette@@200@@11.50
+Caprese Salad@@Salad@@Tomato topped with basil, mozzarella, drizzled with balsamic dressing@@300@@11.00
+Soup@@Side@@italian wedding soup. broth with spinach, pasta, and meatballs@@300@@9/50
+Bruschetta@@Side@@Description@@300@@13.50
+Fried Mozzarella@@Side@@Description@@300@@10.00
+Garlic Bread@@Side@@Baguette served with a garlic butter@@375@@8.50
+Antipasto@@Side@@Platter of cheese and meats similar to a charcuterie board@@350@@15.00
