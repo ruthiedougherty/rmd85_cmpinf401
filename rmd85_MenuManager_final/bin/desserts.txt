@@ -1,0 +1,5 @@
+Chocolate cake@@Dessert@@A cake flavored with melted chocolate@@300@@7.50
+Cannoli@@Dessert@@Pastry filled with cream cheese and chocolate chips@@240@@8.00
+Brownie Skillet@@Dessert@@Brownie in a cast iron pan served with vanilla ice cream@@400@@9.50
+Powdered Donuts@@Dessert@@Donuts topped with powdered sugar. Served with chocolate and raspberry dipping sauces@@400@@6.50
+Cheesecake@@Dessert@@A classic New York Cheesecake@@250@@7.00
